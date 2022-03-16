@@ -1,0 +1,6 @@
+Pillow == 8.4.0
+PyAutoGUI == 0.9.53
+python-sat == 0.1.7.dev15
+colorama == 0.4.4
+
+termcolor~=1.1.0
